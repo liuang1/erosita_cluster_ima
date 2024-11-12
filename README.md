@@ -1,1 +1,1 @@
-# erosita_cluster_ima
+# Imaging analysis of galaxy clusters using eROSITA data
