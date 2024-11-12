@@ -5,7 +5,7 @@ Contact: Ang Liu, liuang@mpe.mpg.de
 - Obtain cluster physical quantities by forward-fitting images
 
 ## Requirements
-- eROSITA Science Analysis Software System (eSASS)
+- eSASS
   
   https://erosita.mpe.mpg.de/dr1/eSASS4DR1/eSASS4DR1_installation/
   
@@ -13,6 +13,10 @@ Contact: Ang Liu, liuang@mpe.mpg.de
   
   https://github.com/jeremysanders/mbproj2d
   
-- HEASoft
+- Xspec
   
-  https://heasarc.gsfc.nasa.gov/docs/software/heasoft/
+  https://heasarc.gsfc.nasa.gov/docs/xanadu/xspec/
+
+- Python3
+
+  
