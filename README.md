@@ -6,8 +6,13 @@ Contact: Ang Liu, liuang@mpe.mpg.de
 
 ## Requirements
 - eROSITA Science Analysis Software System (eSASS)
+  
   https://erosita.mpe.mpg.de/dr1/eSASS4DR1/eSASS4DR1_installation/
+  
 - MBProj2D
+  
   https://github.com/jeremysanders/mbproj2d
+  
 - HEASoft
+  
   https://heasarc.gsfc.nasa.gov/docs/software/heasoft/
